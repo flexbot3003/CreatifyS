@@ -1,0 +1,10 @@
+<svg width="230" height="64" viewBox="0 0 230 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="g" x1="2" y1="8" x2="53" y2="56" gradientUnits="userSpaceOnUse"><stop stop-color="#17A7FF"/><stop offset="1" stop-color="#0565E8"/></linearGradient></defs>
+  <g transform="translate(2 7)">
+    <circle cx="25" cy="25" r="24" fill="url(#g)"/>
+    <path d="M5 18C14 12 25 10 44 15C36 20 26 23 7 23" fill="white" opacity=".95"/>
+    <path d="M7 30C19 25 30 26 45 33C37 39 26 42 10 38" fill="white" opacity=".95"/>
+    <path d="M19 4C27 10 31 17 31 26C25 21 18 18 8 17" fill="white" opacity=".25"/>
+  </g>
+  <text x="60" y="41" font-family="Manrope, Arial, sans-serif" font-size="34" font-weight="800" fill="#0B2B62">reatify</text>
+</svg>

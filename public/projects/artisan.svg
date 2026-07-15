@@ -1,0 +1,12 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="1100" rx="60" fill="#F6E9D8"/>
+<circle cx="1270" cy="160" r="360" fill="#8E4C20" opacity=".13"/>
+<circle cx="230" cy="940" r="320" fill="#8E4C20" opacity=".12"/>
+<path d="M130 780C360 510 560 850 820 550C1050 285 1230 620 1490 290" stroke="#8E4C20" stroke-width="34" fill="none" opacity=".45"/>
+<rect x="160" y="150" width="1280" height="800" rx="48" fill="white" opacity=".72"/>
+<rect x="230" y="230" width="180" height="18" rx="9" fill="#8E4C20"/>
+<text x="230" y="545" font-family="Arial, sans-serif" font-size="132" font-weight="800" letter-spacing="-5" fill="#2E1A10">ARTISAN CO.</text>
+<text x="235" y="625" font-family="Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="6" fill="#8E4C20">CREATIVE CASE STUDY</text>
+<rect x="1110" y="710" width="230" height="120" rx="60" fill="#2E1A10"/>
+<circle cx="1170" cy="770" r="28" fill="#8E4C20"/><path d="M1215 770H1290" stroke="white" stroke-width="16" stroke-linecap="round"/>
+</svg>

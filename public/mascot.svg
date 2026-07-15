@@ -1,0 +1,24 @@
+<svg width="640" height="520" viewBox="0 0 640 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="screen" x1="180" y1="280" x2="405" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#143A7A"/><stop offset="1" stop-color="#061B43"/></linearGradient>
+    <filter id="shadow" x="80" y="20" width="500" height="490" filterUnits="userSpaceOnUse"><feDropShadow dx="12" dy="18" stdDeviation="7" flood-color="#09204D" flood-opacity=".16"/></filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <path d="M402 94C460 137 480 217 449 285C417 356 338 384 269 351C199 317 174 235 207 166C239 97 332 42 402 94Z" fill="#FFFDFB" stroke="#0B2B62" stroke-width="14"/>
+    <path d="M266 77C279 45 314 24 347 29C342 64 319 86 282 91L266 77Z" fill="#FF4D17" stroke="#0B2B62" stroke-width="12"/>
+    <path d="M350 93C356 48 382 24 419 27C416 67 396 92 360 108L350 93Z" fill="#FFFDFB" stroke="#0B2B62" stroke-width="12"/>
+    <path d="M359 32C371 75 369 109 357 143" stroke="#0B2B62" stroke-width="12" stroke-linecap="round"/>
+    <path d="M278 200H350L333 245H294L278 200Z" fill="#0B2B62"/>
+    <path d="M364 202H438L417 246H379L364 202Z" fill="#0B2B62"/>
+    <circle cx="321" cy="218" r="9" fill="white"/>
+    <circle cx="409" cy="220" r="9" fill="white"/>
+    <path d="M339 280C359 291 381 290 399 277" stroke="#0B2B62" stroke-width="12" stroke-linecap="round"/>
+    <path d="M221 250C185 245 160 259 146 286" stroke="#0B2B62" stroke-width="12" stroke-linecap="round"/>
+    <path d="M201 205C172 195 150 199 131 217" stroke="#0B2B62" stroke-width="10" stroke-linecap="round"/>
+    <path d="M460 264C490 252 511 257 527 277" stroke="#0B2B62" stroke-width="10" stroke-linecap="round"/>
+    <path d="M470 315C500 316 520 328 529 351" stroke="#0B2B62" stroke-width="10" stroke-linecap="round"/>
+    <path d="M137 304H364L407 439H176L137 304Z" fill="url(#screen)" stroke="#0B2B62" stroke-width="12" stroke-linejoin="round"/>
+    <circle cx="275" cy="368" r="20" fill="white"/>
+    <path d="M177 440H430" stroke="#0B2B62" stroke-width="14" stroke-linecap="round"/>
+  </g>
+</svg>
